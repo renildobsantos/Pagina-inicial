@@ -1,7 +1,7 @@
 ## Olá! Eu sou Renildo Santos👋
 
 - 😄 Sou Engenheiro de projetos...
-- 🌱 Especializando em linguagem de programação Python, SQL e PowerBi..
+- 🌱 Especializando em linguagem de programação Python, SQL e Power Bi..
 - ⚡ Fun fact:...
 
 <div align="center">
