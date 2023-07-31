@@ -1,7 +1,7 @@
 ## Olá! Eu sou Renildo Santos👋
 
-- 😄 Sou Engenheiro mecatrônico apaixonado em tecnologia...
-- 🌱 Por este motivo estudo constantemente visando aprimorar minhas habilidades e conhecer novas libs, frameworks, linguagens e novas tecnologias que me chamam a atenção.
+- 😄 Sou Engenheiro Desenvolvedor apaixonado em tecnologia...
+- 🌱 Apaixonado por inovação e tecnologia e atento ao mercado cada vez mais competitivo, isso me faz constantemente buscar e me aperfeiçoar no que há de mais modernos em softwares de desenvolvimento Web e linguagens de programação.
 - ⚡ Fun fact:...
 
 <div align="center">
