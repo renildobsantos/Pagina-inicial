@@ -1,6 +1,9 @@
 ## Olá! Eu sou Renildo Santos👋
 
 - 😄 Sou Engenheiro Desenvolvedor apaixonado em tecnologia...
+- 😄 Graduado em Engenharia mecatrônica pela UNIP - Universidade Paulista
+- 😄 Pós Graduado MBA em Gestão e Engenharia de produto pela USP - Universidade de São Paulo
+- 😄 Possuo Inglês intermediário ministrado pela WISEUP.
 - 🌱 Apaixonado por inovação e tecnologia e atento ao mercado cada vez mais competitivo, isso me faz constantemente buscar e me aperfeiçoar no que há de mais modernos em softwares de desenvolvimento Web e linguagens de programação.
 - ⚡ Fun fact:...
 
